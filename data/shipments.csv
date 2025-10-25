@@ -1,0 +1,6 @@
+shipment_id,ship_date,origin_zip,dest_zip,freight_class,weight_lbs,distance_miles,liftgate_required,residential_delivery,fuel_surcharge_rate
+SHP-1001,2025-10-01,38125,77001,55,1200,480,True,False,0.12
+SHP-1002,2025-10-01,38125,90001,70,800,1800,False,True,0.15
+SHP-1003,2025-10-02,75001,30301,92.5,450,820,False,False,0.11
+SHP-1004,2025-10-03,60601,10001,70,1500,790,True,True,0.13
+SHP-1005,2025-10-03,38125,38109,55,300,18,False,False,0.08

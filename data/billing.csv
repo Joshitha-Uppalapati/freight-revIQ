@@ -1,0 +1,6 @@
+shipment_id,base_linehaul_charge,billed_fuel_surcharge,billed_liftgate_fee,billed_residential_fee,total_billed_amount
+SHP-1001,680,60,75,0,815
+SHP-1002,2100,0,0,95,2195
+SHP-1003,950,105,0,0,1055
+SHP-1004,1425,185,0,0,1610
+SHP-1005,120,12,0,0,132

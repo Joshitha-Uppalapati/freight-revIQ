@@ -1,0 +1,5 @@
+shipment_id,ship_date,origin_zip,dest_zip,distance_miles,weight_lbs,expected_total_charge,actual_total_billed,leakage_amount,leakage_pct,leakage_reason
+SHP-1002,2025-10-01,38125,90001,1800,800,24935.0,2195,22740.0,91.2,Underbilled by 91.2%; Fuel surcharge not billed
+SHP-1004,2025-10-03,60601,10001,790,1500,20255.75,1610,18645.75,92.05,Underbilled by 92.05%; Liftgate fee missing; Residential fee missing
+SHP-1003,2025-10-02,75001,30301,820,450,8191.8,1055,7136.8,87.12,Underbilled by 87.12%
+SHP-1001,2025-10-01,38125,77001,480,1200,7816.44,815,7001.44,89.57,Underbilled by 89.57%
